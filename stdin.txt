@@ -1,0 +1,81 @@
+0
+-0
++0
+
+10
++10
+-10
+
+0.00
++0.00
+-0.00
+
+10.10
++10.10
+-10.10
+
+!=
+==
+&
+&&
+/
+*
+**
+^
+
+hello//henlo friend
+
+hi/*
+
+this is fun and weird at the same time
+
+*/
+
+bsdf"this is a string"adfa
+
++++9
+++9
++9
+
+---8
+--8
+-8
+
+4.563E+11
+1.56e+11
+1.0E-6
+1.0e-6
+
+1.56X10^11
++1.56x10^11
++1.0X10^-6
++1.0x10^-6
+
+1.34X10*11
+-1.56x10*11
+-1.0X10*-6
+-1.0x10*-6
+
+not"this string doesnt start at the beggining"
+"this string does"
+"so does this one"hi
+"\"also starts at the beggining"
+"valid1.txt"
+"valid2.hel"
+'v4lid_filenam3.yes'
+"invalid1.hello"
+"invalid2."
+"invalid3.s"
+
+for
+while
+#include<>
+Int
+int
+hello'int'hello
+double
+
+cst00002010
+cst00012010
+cst00022010
+cst00032011

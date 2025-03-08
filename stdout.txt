@@ -1,0 +1,79 @@
+Int : 0
+Subtract : -
+Int : 0
+Add : +
+Int : 0
+Int : 10
+Int : +10
+Int : -10
+Doubles: 0.00
+Add : +
+Doubles: 0.00
+Subtract : -
+Doubles: 0.00
+Doubles: 10.10
+Doubles: +10.10
+Doubles: -10.10
+Isn't the same : !=
+Is the same : ==
+Ampersand : &
+Logical AND : &&
+Division : /
+Multiple : *
+Pointer to Pointer : **
+power of.. : ^
+line_comment : //henlo friend
+comment : /*
+
+this is fun and weird at the same time
+
+*/
+String: "this is a string"
+Increase : ++
+Int : +9
+Increase : ++
+Int : 9
+Int : +9
+Decrease : --
+Int : -8
+Decrease : --
+Int : 8
+Int : -8
+weird decimal numbers with e,E: 4.563E+11
+weird decimal numbers with e,E: 1.56e+11
+weird decimal numbers with e,E: 1.0E-6
+weird decimal numbers with e,E: 1.0e-6
+weird decimal numbers with x,X and ^ or *: 1.56X10^11
+weird decimal numbers with x,X and ^ or *: +1.56x10^11
+weird decimal numbers with x,X and ^ or *: +1.0X10^-6
+weird decimal numbers with x,X and ^ or *: +1.0x10^-6
+weird decimal numbers with x,X and ^ or *: 1.34X10*11
+weird decimal numbers with x,X and ^ or *: -1.56x10*11
+weird decimal numbers with x,X and ^ or *: -1.0X10*-6
+weird decimal numbers with x,X and ^ or *: -1.0x10*-6
+String: "this string doesnt start at the beggining"
+String at start of line: "this string does"
+String at start of line: "so does this one"
+String at start of line: "\"also starts at the beggining"
+Filename : "valid1.txt"
+Filename : "valid2.hel"
+Filename : 'v4lid_filenam3.yes'
+String at start of line: "invalid1.hello"
+String at start of line: "invalid2."
+String at start of line: "invalid3.s"
+for_loop : for
+while_loop : while
+include library macro : #include
+Integers type : int
+Integers type : int
+Doubles type : double
+dexio sumfrazomeno euresi : cst0000
+Int : 2010
+dexio sumfrazomeno euresi : cst0001
+Int : 2010
+dexio sumfrazomeno euresi : cst0002
+Int : 2010
+Int : 0
+Int : 0
+Int : 0
+Int : 32011
